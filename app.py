@@ -13,7 +13,7 @@ def frients_list():
     "phone": "067765665656",
     "address": "Guntur",
     "country": "India"
-}
+},
 
 Asif = {
     "name": "Asif Shaik",
@@ -21,7 +21,7 @@ Asif = {
     "phone": "09876546587",
     "address": "Triupathi",
     "country": "India"
-}
+},
 
 Shoyab = {
     "name": "Shoyab Shaik",
@@ -29,7 +29,7 @@ Shoyab = {
     "phone": "067765665656",
     "address": "Guntur",
     "country": "India"
-}
+},
 
 Aslam = {
     "name": "Aslam Shaik",
