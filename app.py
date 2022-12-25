@@ -6,7 +6,7 @@ def hello_world():
     return 'Hello, World!'
 
 @app.route('/api/friends')
-def hello_world():
+def frients_list():
     return [
         'Adil',
         'Afrid',
