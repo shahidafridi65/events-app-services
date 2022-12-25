@@ -11,4 +11,5 @@ def hello_world():
 def frients_list():
     with open('friends.json','r') as f:
         All_friends = json.load(f)
+        
     return All_friends
