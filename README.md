@@ -8,11 +8,15 @@ The app in this repo is deployed at [https://flask.onrender.com](https://flask.o
 
 Follow the guide at https://render.com/docs/deploy-flask.
 
+
+
+
 ```js
   var add2 = function(number) {
     return number + 2;
   }
 ```
+------------------------------------------------
 
 ```html
   <div class="row">
@@ -21,3 +25,7 @@ Follow the guide at https://render.com/docs/deploy-flask.
       </div>
    </div>
 ```
+|S.No |   Name | City   |
+|  -- | --     | --     |
+| 1   | Afridi | guntur |
+| 2   | Shoyab | guntur |
