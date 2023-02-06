@@ -29,3 +29,6 @@ Follow the guide at https://render.com/docs/deploy-flask.
 |-- | --     |--   |
 |1   | Afridi       | guntur |
 |2   | Shoyab | guntur |
+
+
+#EVENTS-APP
