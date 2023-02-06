@@ -31,4 +31,4 @@ Follow the guide at https://render.com/docs/deploy-flask.
 |2   | Shoyab | guntur |
 
 
-#EVENTS-APP
+# EVENTS-APP
