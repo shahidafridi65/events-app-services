@@ -13,3 +13,11 @@ Follow the guide at https://render.com/docs/deploy-flask.
     return number + 2;
   }
 ```
+
+```html
+  <div class="row">
+      <div class="col-md-6 col-md-offset-3">
+        <h1>Hello World</h1>
+      </div>
+   </div>
+```
