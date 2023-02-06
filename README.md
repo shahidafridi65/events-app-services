@@ -27,5 +27,5 @@ Follow the guide at https://render.com/docs/deploy-flask.
 ```
 |S.No |   Name | City        |
 |-- | --     |--     |
-| 1   | Afridi | guntur |
-| 2   | Shoyab | guntur |
+|1   | Afridi | guntur |
+|2   | Shoyab | guntur |
